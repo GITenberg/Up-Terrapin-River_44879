@@ -1,0 +1,29 @@
+_repo: Up-Terrapin-River_44879
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44879-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Read, Opie Percival
+    alias: Read, Opie P.
+    birthdate: 1852
+    deathdate: 1939
+    gutenberg_agent_id: '8387'
+    url: http://www.gutenberg.org/2009/agents/8387
+    wikipedia: http://en.wikipedia.org/wiki/Opie_Read
+description: ''
+gutenberg_issued: '2014-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Arkansas -- Fiction'
+title: Up Terrapin River
+url: http://www.gutenberg.org/ebooks/44879
